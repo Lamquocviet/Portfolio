@@ -1,0 +1,162 @@
+@keyframes float {
+    0% {
+        transform: translateY(0);
+    }
+
+    50% {
+        transform: translateY(-20px);
+    }
+
+    100% {
+        transform: translateY(0);
+    }
+}
+
+@-webkit-keyframes float {
+    0% {
+        transform: translateY(0);
+    }
+
+    50% {
+        transform: translateY(-20px);
+    }
+
+    100% {
+        transform: translateY(0);
+    }
+}
+
+@keyframes move-left {
+    to {
+        transform: translateX(calc(-100% - 12px));
+    }
+}
+
+@-webkit-keyframes move-left {
+    to {
+        transform: translateX(calc(-100% - 12px));
+    }
+}
+
+@keyframes move-right {
+    0% {
+        transform: translateX(-100%);
+    }
+
+    100% {
+        transform: translateX(calc(0% + 12px));
+    }
+}
+
+@-webkit-keyframes move-right {
+    0% {
+        transform: translateX(-100%);
+    }
+
+    100% {
+        transform: translateX(calc(0% + 12px));
+    }
+}
+
+/* Navbar Animations */
+@keyframes slideDown {
+    from {
+        opacity: 0;
+        transform: translateY(-30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@-webkit-keyframes slideDown {
+    from {
+        opacity: 0;
+        transform: translateY(-30px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes menuItemSlideIn {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@-webkit-keyframes menuItemSlideIn {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+@keyframes linkBounce {
+    0%, 100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-8px);
+    }
+}
+
+@-webkit-keyframes linkBounce {
+    0%, 100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-8px);
+    }
+}
+
+@keyframes glowPulse {
+    0%, 100% {
+        text-shadow: 0 0 5px rgba(0, 0, 0, 0);
+    }
+    50% {
+        text-shadow: 0 0 15px rgba(255, 94, 77, 0.6);
+    }
+}
+
+@-webkit-keyframes glowPulse {
+    0%, 100% {
+        text-shadow: 0 0 5px rgba(0, 0, 0, 0);
+    }
+    50% {
+        text-shadow: 0 0 15px rgba(255, 94, 77, 0.6);
+    }
+}
+
+@keyframes underlineExpand {
+    from {
+        width: 0;
+        left: 50%;
+    }
+    to {
+        width: 100%;
+        left: 0;
+    }
+}
+
+@-webkit-keyframes underlineExpand {
+    from {
+        width: 0;
+        left: 50%;
+    }
+    to {
+        width: 100%;
+        left: 0;
+    }
+}
