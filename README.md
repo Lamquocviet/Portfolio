@@ -6,8 +6,8 @@ Trang portfolio cá nhân được thiết kế và phát triển để trình b
 
 ### 1. 👋 Giới Thiệu
 - **Họ tên**: Lâm Quốc Việt
-- **Chuyên ngành**: Web Developer - Junior Developer
-- **Trường**: Đại học Sư phạm Thành phố Hồ Chí Minh (ĐH SP TPHCM)
+- **Chuyên ngành**: Công nghệ thông tin
+- **Trường**: Đại học Sư phạm Thành phố Hồ Chí Minh 
 - **Mục tiêu**: Ứng tuyển vị trí Junior Developer trong lĩnh vực phát triển web
 - **Sứ mệnh**: Tạo ra các trang web hiện đại, thân thiện với người dùng và có tính ứng dụng cao
 
@@ -257,12 +257,8 @@ Nếu bạn quan tâm hoặc muốn tìm hiểu thêm, vui lòng liên hệ:
 
 ---
 
-## 📄 License
 
-Dự án này được tạo cho mục đích học tập và cá nhân.
 
-**© 2025 - Lâm Quốc Việt Portfolio. All Rights Reserved.**
+**© 2026 - Lâm Quốc Việt Portfolio. All Rights Reserved.**
 
----
 
-**Cập nhật lần cuối**: April 22, 2025
